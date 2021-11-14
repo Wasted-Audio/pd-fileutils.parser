@@ -8,7 +8,7 @@
     "test": "test"
   },
   "dependencies": {
-    "underscore": "1.4.x"
+    "underscore": "1.13.x"
   },
   "repository": {
     "type": "git",
